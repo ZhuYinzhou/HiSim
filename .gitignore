@@ -1,1 +1,7 @@
-**/__pycache__data/hisim_with_tweet/*.pkl
+# Python缓存文件
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# 大文件 - 忽略data目录下的大pkl文件
+data/hisim_with_tweet/*.pkl
