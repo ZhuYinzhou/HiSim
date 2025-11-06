@@ -1,0 +1,1 @@
+{"id": "1083877672168706049", "id_str": "1083877672168706049", "url": "https://twitter.com/Jetta8840/status/1083877672168706049", "date": "2019-01-12 00:05:49.000Z", "rawContent": "Why", "user": {"username": {"username": "Jetta8840"}}, "replyCount": 0, "likeCount": 0, "retweetCount": 0}

@@ -1,0 +1,6 @@
+2025-09-04 21:24:50,087 ERROR logging:_log:160 Error Unsupported model `qwen-turbo` for OpenAI compatibility mode. when requesting openai models. Retrying 
+2025-09-04 21:24:54,161 ERROR logging:_log:160 Error Unsupported model `qwen-turbo` for OpenAI compatibility mode. when requesting openai models. Retrying 
+2025-09-04 21:24:58,236 ERROR logging:_log:160 Error Unsupported model `qwen-turbo` for OpenAI compatibility mode. when requesting openai models. Retrying 
+2025-09-04 21:25:43,422 ERROR logging:_log:160 Error Unsupported model `qwen-turbo` for OpenAI compatibility mode. when requesting openai models. Retrying 
+2025-09-04 21:25:47,505 ERROR logging:_log:160 Error Unsupported model `qwen-turbo` for OpenAI compatibility mode. when requesting openai models. Retrying 
+2025-09-04 21:25:51,582 ERROR logging:_log:160 Error Unsupported model `qwen-turbo` for OpenAI compatibility mode. when requesting openai models. Retrying 

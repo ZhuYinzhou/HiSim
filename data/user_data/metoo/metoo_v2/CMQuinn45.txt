@@ -1,0 +1,1 @@
+{"id": "791569463619440640", "id_str": "791569463619440640", "url": "https://twitter.com/CMQuinn45/status/791569463619440640", "date": "2016-10-27 09:17:21.000Z", "rawContent": "Happy Birthday Seth!!!", "user": {"username": {"username": "CMQuinn45"}}, "replyCount": 0, "likeCount": 0, "retweetCount": 0}

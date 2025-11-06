@@ -1,0 +1,1 @@
+{"id": "1244450792763002880", "id_str": "1244450792763002880", "url": "https://twitter.com/kaydacapricorn_/status/1244450792763002880", "date": "2020-03-30 02:26:04.000Z", "rawContent": "i want some tweet sending buddies", "user": {"username": {"username": "kaydacapricorn_"}}, "replyCount": 0, "likeCount": 0, "retweetCount": 0}

@@ -1,0 +1,25 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "main_microtest_cli",
+            "type": "python",
+            "request": "launch",
+            "program": "agentverse_command/main_microtest_cli.py",
+            "console": "integratedTerminal",
+            "python": "/home/zhuyinzhou/miniconda3/envs/HiSim/bin/python",
+            "env": {
+                "OPENAI_API_BASE": "https://pro.xiaoai.plus/v1",
+                "OPENAI_API_KEY": "sk-70yM3T2255zrDAcm7ehZzLSBRlYs4sYXkzZaIvYDcBFSN2v3"
+            },
+            "args": [
+                "--task", "simulation/roe_micro",
+                "--ckpt_dir", "/home/zhuyinzhou/HiSim/output"
+            ]
+        }
+    ]
+}

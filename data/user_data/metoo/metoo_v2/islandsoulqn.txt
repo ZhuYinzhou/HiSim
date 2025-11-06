@@ -1,0 +1,1 @@
+{"id": "913877863836848131", "id_str": "913877863836848131", "url": "https://twitter.com/islandsoulqn/status/913877863836848131", "date": "2017-09-29 21:27:16.000Z", "rawContent": "#WhyImStillSingleIn4Words  LOVE the single life", "user": {"username": {"username": "islandsoulqn"}}, "replyCount": 0, "likeCount": 0, "retweetCount": 0}
