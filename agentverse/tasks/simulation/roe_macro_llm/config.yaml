@@ -80,13 +80,13 @@ agents:
   llm:
     llm_type: gpt-3.5-turbo
     max_tokens: 256
-    model: qwen-turbo
+    model: gpt-3.5-turbo
     temperature: 1
   memory:
     llm:
       llm_type: gpt-3.5-turbo
       max_new_tokens: 256
-      model: qwen-turbo
+      model: gpt-3.5-turbo
       temperature: 1
     memory_type: twitter
   memory_manipulator:
@@ -98,7 +98,7 @@ agents:
     page_type: timeline
   personal_history:
     deadline: '2022-06-24 22:00:00'
-    llm: qwen-turbo
+    llm: gpt-3.5-turbo
     memory_path: /home/zhuyinzhou/HiSim/data/user_data/roe/roe_v2/a_standal.txt
     memory_type: personal_history
     target: the protection of Abortion Rights
@@ -113,13 +113,13 @@ agents:
   llm:
     llm_type: gpt-3.5-turbo
     max_tokens: 256
-    model: qwen-turbo
+    model: gpt-3.5-turbo
     temperature: 1
   memory:
     llm:
       llm_type: gpt-3.5-turbo
       max_new_tokens: 256
-      model: qwen-turbo
+      model: gpt-3.5-turbo
       temperature: 1
     memory_type: twitter
   memory_manipulator:
@@ -131,7 +131,7 @@ agents:
     page_type: timeline
   personal_history:
     deadline: '2022-06-24 22:00:00'
-    llm: qwen-turbo
+    llm: gpt-3.5-turbo
     memory_path: /home/zhuyinzhou/HiSim/data/user_data/roe/roe_v2/Pissed_Woman.txt
     memory_type: personal_history
     target: the protection of Abortion Rights
@@ -146,13 +146,13 @@ agents:
   llm:
     llm_type: gpt-3.5-turbo
     max_tokens: 256
-    model: qwen-turbo
+    model: gpt-3.5-turbo
     temperature: 1
   memory:
     llm:
       llm_type: gpt-3.5-turbo
       max_new_tokens: 256
-      model: qwen-turbo
+      model: gpt-3.5-turbo
       temperature: 1
     memory_type: twitter
   memory_manipulator:
@@ -164,7 +164,7 @@ agents:
     page_type: timeline
   personal_history:
     deadline: '2022-06-24 22:00:00'
-    llm: qwen-turbo
+    llm: gpt-3.5-turbo
     memory_path: /home/zhuyinzhou/HiSim/data/user_data/roe/roe_v2/HGabalot.txt
     memory_type: personal_history
     target: the protection of Abortion Rights
